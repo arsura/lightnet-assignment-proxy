@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	router := routes.Router()
+	router := router.Router()
 	router.Run(":8082")
 }
