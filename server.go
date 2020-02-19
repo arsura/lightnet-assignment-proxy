@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/arsura/lightnet-assignment-proxy/routes"
+	"github.com/arsura/lightnet-assignment-proxy/router"
 )
 
 func main() {
